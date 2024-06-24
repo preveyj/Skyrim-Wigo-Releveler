@@ -113,11 +113,11 @@
   ],
   "VampireFaction": [
     [1, 65],
-    [36, 120]
+    [45, 140]
   ],
   "DLC1VampireFaction": [
     [1, 60],
-    [42, 150]
+    [62, 160]
   ],
   "ThalmorFaction": [
     [4, 50],
@@ -181,7 +181,7 @@
   ],
   "IsGuardFaction": [
     [1, 50],
-    [40, 80]
+    [60, 80]
   ],
   "HunterFaction": [
     [5, 15],
